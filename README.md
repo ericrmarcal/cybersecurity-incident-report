@@ -24,3 +24,14 @@ Com base na análise, as recomendações de segurança incluem:
 
 ## 📂 Arquivos
 * [Visualizar Relatório Completo (PDF)](./relatorios/Exemplo-de-relatorio.pdf)
+
+* ---
+
+## 💡 Análise do Exemplar (Lógica Técnica)
+Além do relatório final, este projeto incluiu um estudo sobre a fundamentação das respostas:
+
+* **Análise do Protocolo:** O uso do HTTP foi confirmado pela observação do tráfego na porta 80 e pela natureza do serviço web afetado.
+* **Análise da Documentação:** A estruturação seguiu um padrão factual, detalhando desde a causa raiz (Brute Force) até o vetor de ataque (JavaScript Injection).
+* **Análise da Remediação:** As soluções propostas focam em controles de acesso robustos para impedir que vulnerabilidades de credenciais padrão sejam exploradas novamente.
+
+---
