@@ -23,7 +23,7 @@ Com base na análise, as recomendações de segurança incluem:
 * **Limitação de Tentativas:** Implementação de bloqueio de conta após sucessivas falhas de login.
 
 ## 📂 Arquivos
-* [Visualizar Relatório Completo (PDF)](./relatorios/Exemplo-de-relatorio.pdf)
+* [📄 Explicação da Lógica do Relatório (PDF)](./analise-tecnica-incidente.pdf)
 
 ## 💡 Análise do Exemplar (Lógica Técnica)
 Além do relatório final, este projeto incluiu um estudo sobre a fundamentação das respostas:
