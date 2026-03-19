@@ -25,8 +25,6 @@ Com base na análise, as recomendações de segurança incluem:
 ## 📂 Arquivos
 * [Visualizar Relatório Completo (PDF)](./relatorios/Exemplo-de-relatorio.pdf)
 
-* ---
-
 ## 💡 Análise do Exemplar (Lógica Técnica)
 Além do relatório final, este projeto incluiu um estudo sobre a fundamentação das respostas:
 
