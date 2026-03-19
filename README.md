@@ -25,6 +25,8 @@ Com base na análise, as recomendações de segurança incluem:
 ## 📂 Arquivos
 * [📄 Explicação da Lógica do Relatório (PDF)](./analise-tecnica-incidente.pdf)
 * [📄 Exemplar do Relatório (PDF)](./exemplar-relatorio-incidente.pdf)
+* [📄 Traffic Log (PDF)](./traffic-log.pdf)
+
 
 ## 💡 Análise do Exemplar (Lógica Técnica)
 Além do relatório final, este projeto incluiu um estudo sobre a fundamentação das respostas:
